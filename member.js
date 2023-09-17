@@ -1,0 +1,1 @@
+git add member.js
